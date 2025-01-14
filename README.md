@@ -1,6 +1,6 @@
 # 🚀 criptovaluta Deployment Guide
 
-This guide will help you deploy your **Crypto-App** to **GitHub Pages** step-by-step. 🌟
+This guide will help you deploy your **criptovaluta** to **GitHub Pages** step-by-step. 🌟
 
 ---
 
