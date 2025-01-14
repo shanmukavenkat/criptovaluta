@@ -94,7 +94,7 @@ https://<your-github-username>.github.io/<your-repository-name>
 ```
 
 For this project:  
-**[Crypto-App](https://shanmukavenkat.github.io/criptovaluta)** 🌟
+**[Criptovaluta](https://shanmukavenkat.github.io/criptovaluta)** 🌟
 
 ---
 
