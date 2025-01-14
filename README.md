@@ -52,11 +52,12 @@ Your `"scripts"` section should now look something like this:
 ```json
 "scripts": {
   "start": "react-scripts start",
+"predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "build": "react-scripts build",
   "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+  "eject": "react-scripts eject"
+  
 }
 ```
 
