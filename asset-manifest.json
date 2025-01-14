@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/criptovaluta/static/css/main.3fe0b258.css",
+    "main.js": "/criptovaluta/static/js/main.13dc0adf.js",
+    "static/js/453.c42d1384.chunk.js": "/criptovaluta/static/js/453.c42d1384.chunk.js",
+    "index.html": "/criptovaluta/index.html",
+    "main.3fe0b258.css.map": "/criptovaluta/static/css/main.3fe0b258.css.map",
+    "main.13dc0adf.js.map": "/criptovaluta/static/js/main.13dc0adf.js.map",
+    "453.c42d1384.chunk.js.map": "/criptovaluta/static/js/453.c42d1384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe0b258.css",
+    "static/js/main.13dc0adf.js"
+  ]
+}
